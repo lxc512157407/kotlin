@@ -1,10 +1,8 @@
 package com
 
-import com.lesson1.test
-import com.lesson1.test2
+import com.lesson1.*
 
 fun main(){
-    println("hello world")
-    test()
-    test2()
+    println("kotlin语法：")
+    lesson1()
 }
