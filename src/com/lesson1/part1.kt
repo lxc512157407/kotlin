@@ -1,5 +1,9 @@
 package com.lesson1
 
+/**
+ * 包声明
+ */
+
 fun part1(){
     println("1、包声明：")
     println("   代码文件的开头一般包括包的声明：")

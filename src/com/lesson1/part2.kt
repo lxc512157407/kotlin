@@ -1,5 +1,8 @@
 package com.lesson1
 
+/**
+ * 函数定义
+ */
 fun part2(){
     println("2.函数定义：")
     println("   a.函数定义使用关键子fun，参数格式为：参数:类型")
