@@ -1,5 +1,8 @@
 package com.lesson1
 
+/**
+ * 基本语法
+ */
 fun lesson1(){
     part1()
     part2()
